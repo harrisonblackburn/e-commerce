@@ -1,3 +1,7 @@
+Walkthrough video: https://drive.google.com/file/d/1IP-tHC4y6Cme6BgAz_wUNuV6VQNzq3Ig/view
+
+
+
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Your Task
